@@ -1,5 +1,4 @@
 # OOP-Parking-System
-# OOP Parking System (Java)
 
 ## 📌 Proje Açıklaması
 Bu proje, Java dili kullanılarak geliştirilmiş basit bir Otopark Yönetim Sistemi uygulamasıdır. 
